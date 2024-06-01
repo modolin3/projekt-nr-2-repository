@@ -1,0 +1,13 @@
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\bin\Debug\ProjektNr2_Odolinski70353.exe.config
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\bin\Debug\ProjektNr2_Odolinski70353.exe
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\bin\Debug\ProjektNr2_Odolinski70353.pdb
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.csproj.AssemblyReference.cache
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.Kokpit.resources
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.Properties.Resources.resources
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.csproj.GenerateResource.cache
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.csproj.CoreCompileInputs.cache
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.exe
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\ProjektNr2_Odolinski70353.pdb
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\Projekt2_Odolinski70353.AnalizatorLaboratoryjny.resources
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\Projekt2_Odolinski70353.AnalizatorIndywidualny.resources
+C:\Users\Zodiak\Desktop\ProjektNr2_Odolinski70353\ProjektNr2_Odolinski70353\obj\Debug\Projekt2_Odolinski70353.sprawdzian2.resources
